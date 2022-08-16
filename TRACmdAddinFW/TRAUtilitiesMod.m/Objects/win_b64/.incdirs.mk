@@ -1,0 +1,5 @@
+/I"D:\Working\TRATestWS\.\TRACmdAddinFW\TRAUtilitiesMod.m\src"
+/I"D:\Working\TRATestWS\.\TRACmdAddinFW\TRAUtilitiesMod.m\LocalInterfaces"
+/I"D:\Working\TRATestWS\.\TRACmdAddinFW\TRAUtilitiesMod.m\LocalGenerated\win_b64"
+/I"D:\Working\TRATestWS\.\TRACmdAddinFW\PublicInterfaces"
+/I"D:\Working\TRATestWS\.\TRACmdAddinFW\ImportedInterfaces\win_b64"

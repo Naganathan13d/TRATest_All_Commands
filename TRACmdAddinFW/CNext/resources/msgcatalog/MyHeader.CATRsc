@@ -1,0 +1,4 @@
+// COPYRIGHT DASSAULT SYSTEMES 2000
+MyHeader.TRACommand_1.Icon.Normal    = "CAAMmr_I_CombinedCurve" ;
+
+MyHeader.TRACommand_2.Icon.Normal  = "CAAMmr_I_CCDataExtension" ;

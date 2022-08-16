@@ -1,0 +1,13 @@
+// COPYRIGHT DASSAULT SYSTEMES 2000
+MyHeader.TRACommand_1.Title     = "TRACommand_1" ;
+MyHeader.TRACommand_1.ShortHelp = "TRACommand_1" ;
+MyHeader.TRACommand_1.Help      = "Creates a Combined Curve" ;
+MyHeader.TRACommand_1.LongHelp  = "Combined Curvesing two curves and two directions" ;
+MyHeader.TRACommand_1.Category  = "Insert" ;
+
+MyHeader.TRACommand_2.Title     = "TRACommand_2" ;
+MyHeader.TRACommand_2.ShortHelp = "TRACommand_2" ;
+MyHeader.TRACommand_2.Help      = "Create a Extension for Combined Curve" ;
+MyHeader.TRACommand_2.LongHelp  = "Extend a MmrCombinedCurve with a MmrCombinedCurveDataExtension" ;
+MyHeader.TRACommand_2.Category  = "Insert" ;
+

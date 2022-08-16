@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\TRAUtilitiesMod.pdb|.\TRACmdAddinFW\TRAUtilitiesMod.m
+INT/000/CUS .\win_b64\code\lib\TRAUtilitiesMod.exp|.\TRACmdAddinFW\TRAUtilitiesMod.m
+RTV/001/CUS .\win_b64\code\bin\TRAUtilitiesMod.dll|.\TRACmdAddinFW\TRAUtilitiesMod.m
+BTV/000/CUS .\win_b64\code\lib\TRAUtilitiesMod.lib|.\TRACmdAddinFW\TRAUtilitiesMod.m
